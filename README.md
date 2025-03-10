@@ -11,8 +11,7 @@
 
 - 📫 Reach me at: [arezooabbakhsh@yahoo.com] | [https://www.linkedin.com/in/arezoo-abbakhsh-6ba795321]
 
-- ⚡ Fun fact: I love working with data and solving backend challenges!
-- 
+- ⚡ Fun fact: I love working with data and solving backend challenges! 
 
 ---
 
