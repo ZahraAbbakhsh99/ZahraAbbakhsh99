@@ -5,7 +5,7 @@
 
 ##  About Me
 
-- 🔭 Currently working on: [komakkhalaban_api]
+- 🔭 Currently working on: komakkhalaban_api
 
 - 🌱 Learning: FastAPI, Data Engineering
 
