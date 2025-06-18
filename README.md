@@ -5,9 +5,7 @@
 
 ##  About Me
 
-- 🔭 Currently working on: komakkhalaban_api
-
-- 🌱 Learning: FastAPI, Data Engineering
+- 🌱 Learning: Power BI, Data Engineering
 
 - 📫 Reach me at: [arezooabbakhsh@yahoo.com] | [https://www.linkedin.com/in/arezooabbakhsh]
 
