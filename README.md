@@ -5,7 +5,7 @@
 
 ##  About Me
 
-- 🌱 Learning: Power BI, Data Engineering
+- 🌱 Learning: JavaScript, Node.js
 
 - 📫 Reach me at: [arezooabbakhsh@yahoo.com] | [https://www.linkedin.com/in/arezooabbakhsh]
 
@@ -16,6 +16,7 @@
 ## 🛠️ Tech Stack  
 ### **Programming Languages**  
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -33,6 +34,7 @@
 
 ### **Backend Frameworks & Tools**  
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
